@@ -73,19 +73,23 @@ The project goes beyond visualization by focusing on **real business recommendat
 Pizza-Sales-Analysis/
 │
 ├── data/
-│   ├── orders.csv
-│   ├── order_details.csv
-│   ├── pizzas.csv
-│   └── pizza_types.csv
+│ ├── orders.csv
+│ ├── order_details.csv
+│ ├── pizzas.csv
+│ └── pizza_types.csv
 │
 ├── sql/
-│   └── pizza_analysis.sql
+│ └── pizza_analysis.sql
 │
 ├── dashboard/
-│   └── Pizza_Place_Analysis.pbix
+│ └── Pizza_Place_Analysis.pbix
 │
 ├── report/
-│   └── Pizza_Place_Analysis.pdf
+│ └── Pizza_Place_Analysis.pdf
+│
+├── screenshots/
+│ ├── Sales Overview.png
+│ └── Operations Insights.png
 │
 └── README.md
 
