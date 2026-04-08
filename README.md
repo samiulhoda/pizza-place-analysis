@@ -69,6 +69,7 @@ The project goes beyond visualization by focusing on **real business recommendat
 ---
 
 ## 📂 Project Structure
+
 Pizza-Sales-Analysis/
 │
 ├── data/
